@@ -1,6 +1,7 @@
 <template>
   <div class="shop">
     <div v-if="this.goodList.length>0">
+      购物车
       <table>
         <thead>
           <tr>
